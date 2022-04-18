@@ -2,7 +2,7 @@
 ***
 Movie Success Determination Mini-Project for SC1015 - Introduction to Data Science and Artificial Intelligence
 
-![](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/SC1015.png)
+![](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/SC1015(1).png)
 
 ## Introduction
 ***
