@@ -2,6 +2,8 @@
 ***
 Movie Success Determination Mini-Project for SC1015 - Introduction to Data Science and Artificial Intelligence
 
+[](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/SC1015.png)
+
 ## Introduction
 ***
 This is a Mini-Project for NTU Course SC1015 (Introduction to Data Science and Artificial Intelligence) 2022. In this project, we will showcase if a movie's success can be determined by various factors. The dataset we will be using is [**The Movies Dataset**](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) from [Kaggle](https://www.kaggle.com/).
