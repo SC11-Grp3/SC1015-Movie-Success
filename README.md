@@ -47,6 +47,7 @@ SC1015 SC11 Group 3:
 
 ## What did we learn from this project?
 ***
+
 Data Extraction & Cleaning
 Data Visualisation
 Uni & Multi Variate Analysis
