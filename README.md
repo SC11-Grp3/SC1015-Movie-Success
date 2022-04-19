@@ -11,14 +11,14 @@ This is a Mini-Project for NTU Course SC1015 (Introduction to Data Science and A
 *'Success' definition - Generated revenue is higher than budget spent to produce the movie*
 
 For a detailed walkthrough please view the source code in order:
-1. Data Cleaning
-2. Data Visualization
-3. Data Splitting and Resampling
-4. Logistic Regression
-5. Neural Network
+1. Data Importation & Description
+2. Data Extraction & Cleaning
+3. Exploratory Data Analysis & Visualisation
+4. Linear Regression
+5. XGBoost
+6. Bonus(Recommendation System Based On Content)
 
 ### OR
-
 
 View the code as a whole:
 1. Whole Code
@@ -27,25 +27,31 @@ View the code as a whole:
 ***
 SC1015 SC11 Group 3:
 1. @Justt-In
+2. @tquean15012003
 
 ## Problem Definition
 ***
 1. Can a movie's success be determine by the following factors:
- 1. Pre-Production Variables
- 2. Post-Production Variables
- 3. Pre & Post Production Variables
+ 1. Pre-Elements variables
+ 2. Post-Element variables
+ 3. Pre & Post Element Variables
 2. Which model would be the best to predict?
 
 ## Models Used
 ***
-1. Logistic Regression
-2. Neural Networks
+1. Linear Regression
+2. XGBoost Algorithm
 
 ## Conclusion
 ***
 
 ## What did we learn from this project?
 ***
+Data Extraction & Cleaning
+Data Visualisation
+Uni & Multi Variate Analysis
+Linear Regression Models
+XGBoost Algorithm
 
 ## References
 ***
