@@ -10,7 +10,7 @@ This is a Mini-Project for NTU Course SC1015 (Introduction to Data Science and A
 
 *'Success' definition - Generated revenue is higher than budget spent to produce the movie*
 
-For a detailed walkthrough please view the source code in order **WARNING! CODE DOES NOT WORK SEPARATELY, THIS IS ONLY FOR DETAILING THE DIFFERENT SECTIONS**:
+For a detailed walkthrough please view the source code in order: (**WARNING! CODE DOES NOT WORK SEPARATELY, THIS IS ONLY FOR DETAILING THE DIFFERENT SECTIONS**)
 1. [Data Importation & Description](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/Data%20Importation%20%26%20Description.ipynb)
 2. [Data Extraction & Cleaning](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/Data%20Extraction%20%26%20Cleaning.ipynb)
 3. [Exploratory Data Analysis & Visualisation](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualisation.ipynb)
