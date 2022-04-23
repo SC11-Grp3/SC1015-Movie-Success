@@ -46,7 +46,8 @@ SC1015 SC11 Group 3:
 ***
 A movie's success cannot be determine solely on pre-production and post-production elements alone. But it is likely possible that it can be determined using a combination of both factors. Hence, a combination of both marketing and production resources are key to creating a vibrant and engaging movie.  
 
-A successful movie can be made with little budget and lesser known cast and crew e.g. SAW(2004), Rocky(1976). Thus pre-production elements is not a strong indicator.
+A successful movie can be made with little budget and lesser known cast and crew e.g. SAW(2004), Rocky(1976). Thus pre-production elements is not a strong indicator.  
+<img src="https://media-cache.cinematerial.com/p/500x/g2qj7zv9/saw-movie-poster.jpg?v=1456231666" alt="drawing" width="200"/>
 ![](https://media-cache.cinematerial.com/p/500x/g2qj7zv9/saw-movie-poster.jpg?v=1456231666)
 ![](https://cdn.shopify.com/s/files/1/1416/8662/products/rocky_1976_40x60_original_film_art_48aa4697-ba9d-4404-a39f-284b94e0cecd_5000x.jpg?v=1633548517)  
 
