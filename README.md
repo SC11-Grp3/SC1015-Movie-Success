@@ -55,6 +55,12 @@ An unsuccessful movie can still happen even with high budget, popularity and wel
 <img src="https://m.media-amazon.com/images/M/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_.jpg" alt="drawing" width="300"/>
 <img src="https://static.wikia.nocookie.net/dark-universe-universal-monsters/images/2/2f/The_Mummy_%282017%29_poster.jpg/revision/latest?cb=20171223070021" alt="drawing" width="300"/>  
 
+Occasional outliers do exist as well, such as successful movie with bad reviews and ratings, e.g. Lara Corft: Tomb Raider (2001), which was marketing very well with it's game franchise thus performing well in its box office premieres.  
+<img src="https://m.media-amazon.com/images/I/51Kc7tUv0OL._AC_.jpg" alt="drawing" width="300"/>  
+
+As well as movies with good ratings and reviews but underperformed in its box office premieres due to bad marketing, thus losing out on significant profits.  
+<img src="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_.jpg" alt="drawing" width="300"/>  
+
 
 ## What did we learn from this project?
 ***
