@@ -25,9 +25,9 @@ View the [**Whole Code**](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob
 ## Contributors
 ***
 SC1015 SC11 Group 3:
-1. @Justt-In
-2. @tquean15012003
-3. @dabluegem
+1. @Justt-In - Presentation & Slides, Github Integration & Data Preparation 
+2. @tquean15012003 - Presentation, Video Editing & Exploratory Data Analysis
+3. @dabluegem - Data Visualisation, Linear Regression and XGBoost Models, Recommendation System, Notebook Integration
 
 ## Problem Definition
 ***
