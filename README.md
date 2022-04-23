@@ -32,9 +32,9 @@ SC1015 SC11 Group 3:
 ## Problem Definition
 ***
 1. Can a movie's success be determine by the following factors:
- 1. Pre-Elements variables
- 2. Post-Element variables
- 3. Pre & Post Element Variables
+ 1. Pre-Production Elements variables
+ 2. Post-Production Element variables
+ 3. Pre & Post Production Element Variables
 2. Which model would be the best to predict?
 
 ## Models Used
