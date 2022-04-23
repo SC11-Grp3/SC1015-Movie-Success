@@ -48,14 +48,12 @@ SC1015 SC11 Group 3:
 A movie's success cannot be determine solely on pre-production and post-production elements alone. But it is likely possible that it can be determined using a combination of both factors. Hence, a combination of both marketing and production resources are key to creating a vibrant and engaging movie.  
 
 A successful movie can be made with little budget and lesser known cast and crew e.g. SAW(2004), Rocky(1976). Thus pre-production elements is not a strong indicator.  
-
-<img src="https://media-cache.cinematerial.com/p/500x/g2qj7zv9/saw-movie-poster.jpg?v=1456231666" alt="drawing" width="200"/>
-<img src="https://cdn.shopify.com/s/files/1/1416/8662/products/rocky_1976_40x60_original_film_art_48aa4697-ba9d-4404-a39f-284b94e0cecd_5000x.jpg?v=1633548517" alt="drawing" width="200"/>   
+<img src="https://media-cache.cinematerial.com/p/500x/g2qj7zv9/saw-movie-poster.jpg?v=1456231666" alt="drawing" width="300"/>
+<img src="https://cdn.shopify.com/s/files/1/1416/8662/products/rocky_1976_40x60_original_film_art_48aa4697-ba9d-4404-a39f-284b94e0cecd_5000x.jpg?v=1633548517" alt="drawing" width="300"/>   
 
 An unsuccessful movie can still happen even with high budget, popularity and well renowned cast, e.g. Transformers: The Last Knight(2017), The Mummy(2017)  
-
-<img src="https://m.media-amazon.com/images/M/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_.jpg" alt="drawing" width="200"/>
-<img src="https://static.wikia.nocookie.net/dark-universe-universal-monsters/images/2/2f/The_Mummy_%282017%29_poster.jpg/revision/latest?cb=20171223070021" alt="drawing" width="200"/>  
+<img src="https://m.media-amazon.com/images/M/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_.jpg" alt="drawing" width="300"/>
+<img src="https://static.wikia.nocookie.net/dark-universe-universal-monsters/images/2/2f/The_Mummy_%282017%29_poster.jpg/revision/latest?cb=20171223070021" alt="drawing" width="300"/>  
 
 
 ## What did we learn from this project?
