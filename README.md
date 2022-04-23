@@ -37,6 +37,17 @@ SC1015 SC11 Group 3:
  3. Pre & Post Production Element Variables
 2. Which model would be the best to predict?
 
+<ol>
+  <li>Can a movie's success be determine by the following factors:
+    <ol>
+      <li>Pre-Production Elements Variables</li>
+      <li>Post-Production Element Variables</li>
+      <li>Pre & Post Production Element Variabless</li>
+    </ol>
+  </li>
+  <li>Which model would be the best to predict?</li>
+</ol>
+
 ## Models Used
 ***
 1. Linear Regression
