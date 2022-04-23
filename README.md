@@ -74,11 +74,11 @@ Sangeetha, Jame. “Json Parsing & Linear Regression Analysis.” Kaggle, Kaggle
 
 F.koglu, et al. “How Can I Increase the Accuracy of My Linear Regression Model?(Machine Learning with Python).” Stack Overflow, 1 Sept. 1966, stackoverflow.com/questions/47577168/how-can-i-increase-the-accuracy-of-my-linear-regression-modelmachine-learning.  
 
-“Sklearn.linear_model.RidgeCV¶.” Scikit, scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html.  
+Sklearn.linear_model.RidgeCV¶. Scikit, scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html.  
 
-“Sklearn.linear_model.RidgeCV¶.” Scikit, scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html.  
+Sklearn.linear_model.RidgeCV¶. Scikit, scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html.  
 
-“Sklearn.svm.LinearSVR¶.” Scikit, scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVR.html.  
+Sklearn.svm.LinearSVR¶. Scikit, scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVR.html.  
 
 Kushbhatnagar. “Movie Recommendation System.” Kaggle, Kaggle, 6 Apr. 2021, www.kaggle.com/kushbhatnagar/movie-recommendation-system.  
 
