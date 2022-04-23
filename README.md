@@ -20,7 +20,7 @@ For a detailed walkthrough please view the source code in order **WARNING! CODE 
 
 ### OR
 
-View [**Whole Code**](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/Miniproject_Group3_SC1015.ipynb)
+View the [**Whole Code**](https://github.com/SC11-Grp3/SC1015-Movie-Success/blob/main/Miniproject_Group3_SC1015.ipynb)
 
 ## Contributors
 ***
